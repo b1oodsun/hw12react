@@ -1,0 +1,19 @@
+
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 40px 40px ;
+    width: 32.4%;
+    height: 296.42px;
+}
+.additional{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.image-drop{
+    width: 100px;
+    height: 100px;
+}
